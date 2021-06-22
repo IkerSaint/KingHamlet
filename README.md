@@ -39,11 +39,11 @@ Windows Defender | 18/06/2021
 Avast Free Antivirus | 18/06/2021
 Avast Free Security | 18/06/2021
 
-Credits:
-https://www.elastic.co/blog/process-ghosting-a-new-executable-image-tampering-attack
-https://github.com/hasherezade/process_doppelganging
-https://github.com/bricke/tiny-AES-C
-https://www.blackhat.com/docs/eu-17/materials/eu-17-Liberman-Lost-In-Transaction-Process-Doppelganging.pdf
+## Credits:  
+https://www.elastic.co/blog/process-ghosting-a-new-executable-image-tampering-attack  
+https://github.com/hasherezade/process_doppelganging  
+https://github.com/bricke/tiny-AES-C  
+https://www.blackhat.com/docs/eu-17/materials/eu-17-Liberman-Lost-In-Transaction-Process-Doppelganging.pdf  
 
 
 All material in this repository is in the public domain.
