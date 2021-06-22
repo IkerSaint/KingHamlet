@@ -1,0 +1,21 @@
+﻿  AES.cpp
+  main.cpp
+D:\OneDrive\Code\KingHamlet\KingHamlet\main.cpp(303,25): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive\Code\KingHamlet\KingHamlet\main.cpp(338,25): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive\Code\KingHamlet\KingHamlet\main.cpp(349,121): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': cannot convert argument 1 from 'const char *' to 'LPCWSTR'
+D:\OneDrive\Code\KingHamlet\KingHamlet\main.cpp(349,34): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(94,1): message : see declaration of 'CreateFileW'
+D:\OneDrive\Code\KingHamlet\KingHamlet\main.cpp(389,122): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': cannot convert argument 1 from 'char *' to 'LPCWSTR'
+D:\OneDrive\Code\KingHamlet\KingHamlet\main.cpp(389,34): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(94,1): message : see declaration of 'CreateFileW'
+D:\OneDrive\Code\KingHamlet\KingHamlet\main.cpp(385,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\OneDrive\Code\KingHamlet\KingHamlet\main.cpp(437,146): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': cannot convert argument 1 from 'const char *' to 'LPCWSTR'
+D:\OneDrive\Code\KingHamlet\KingHamlet\main.cpp(437,34): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(94,1): message : see declaration of 'CreateFileW'
+D:\OneDrive\Code\KingHamlet\KingHamlet\main.cpp(448,13): error C2039: 'DeleteFileA': is not a member of '_FILE_DISPOSITION_INFORMATION'
+D:\OneDrive\Code\KingHamlet\KingHamlet\NTHelper.h(335): message : see declaration of '_FILE_DISPOSITION_INFORMATION'
+D:\OneDrive\Code\KingHamlet\KingHamlet\main.cpp(467,121): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': cannot convert argument 1 from 'const char *' to 'LPCWSTR'
+D:\OneDrive\Code\KingHamlet\KingHamlet\main.cpp(467,34): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(94,1): message : see declaration of 'CreateFileW'
+D:\OneDrive\Code\KingHamlet\KingHamlet\main.cpp(587,2): error C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
