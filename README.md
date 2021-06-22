@@ -3,10 +3,10 @@ Process Ghosting Tool - 64 bits Only!
 
 King Hamlet is a simple tool, which allows you to perform a Process Ghosting Attack (https://www.elastic.co/blog/process-ghosting-a-new-executable-image-tampering-attack).
 
-Initially you have to encrypt a file, which is later located on the system to be attacked, after, you could the tool is used to decrypt the file and execute it, using the
-Process Ghosting technique; this allows bypassing a significant number of security solutions.
+Initially you have to encrypt a file, which is later located on the system to be attacked, after, the tool is used to decrypt the file and create a process using the
+Process Ghosting technique; this allows to bypass a significant number of security solutions.
 
-the options are very simple:
+The options are very simple:
 
 ```bash
 Usage:
